@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer with deeply passion to developing. Always looking for new and efficient ways to understand the code.
+I’m a full-stack developer with deeply passion to create new things. Always looking for new and efficient ways to understand the code.
 
 I worked with the PERN Stack on my Individual Project and Final Project for the Bootcamp Full Stack Web Developer of Henry, in which i learned to create SPA, work in team and a sort of new techs in the way.  
   

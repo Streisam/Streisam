@@ -21,7 +21,6 @@ I worked with the PERN Stack on my Individual Project and Final Project for the 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [My Portfolio]  
   
@@ -35,9 +34,7 @@ I worked with the PERN Stack on my Individual Project and Final Project for the 
 - ❓ Ask me about anything related to PERN stack and similar technologies  
 
 
-</td>
-</tr>
-</table>  
+
 
 <br/>  
 
